@@ -1,0 +1,17 @@
+{
+  "name": "化学试剂浓度计算器",
+  "short_name": "化学计算器",
+  "description": "化学试剂浓度计算工具：正向/反向配液、滴定、标定、含量测定；化合物查询（分子量/CAS/结构式）；公式库与自定义公式；7 套主题；危险提醒；AI 助手。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1f5fa8",
+  "background_color": "#eef1f6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-256.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
